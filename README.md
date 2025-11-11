@@ -1,5 +1,5 @@
 # OOP Assignments (DIT043)
-This repo contains my university OOP assignments written in Java, at Gothenburg University / Chalmers. 
+This repository contains my university OOP assignments, written in Java, at Gothenburg University / Chalmers University of Technology. 
 Prior to this I had no experience in programming or Software Engineering.
 
 - Assignment 01 was done after 1-2 weeks of programming.
@@ -8,7 +8,7 @@ Prior to this I had no experience in programming or Software Engineering.
 
 - Assignment 03 was done after 5-6 weeks of programming.
 
-No generative AI was used to solve the assignments in any way whatsoever.
+No generative AI was used to solve these assignments in any way whatsoever.
 
 
 ## Running the code
